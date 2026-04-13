@@ -51,10 +51,10 @@
 
 ## 🌐 Connect
 <p align="center">
-<a href="https://jaykumar9022.github.io/my-portfolio/#projects">
+<a href="https://s">
 <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-<a href="mailto:jaykumarr9022@gmail.com">
+<a href="mailto:gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
