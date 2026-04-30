@@ -30,7 +30,7 @@
 
 ## 🌌 Hacker Stats Dashboard
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=jaykumar9022&show_icons=true&theme=radical&hide_border=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=imish296&show_icons=true&theme=radical&hide_border=true" height="160"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imish296&layout=compact&theme=radical&hide_border=true" height="160"/></p>
 
 <p align="center">
